@@ -148,18 +148,6 @@ Most recently I built **Subnet Sentinel**, a full-stack Bittensor intelligence p
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Carlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryptostar7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E6B5E&icon_color=2E6B5E&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptostar7&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E6B5E&text_color=ffffff&langs_count=8)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to full-time and contract AI/full-stack engineering roles — remote*
